@@ -8,10 +8,11 @@ C#で開発したシンプルなメモ帳アプリです。テキストファイ
 
 * テキストファイルの新規作成
 * テキストファイルの読み込み
-* テキストファイルの編集
 * テキストファイルの保存
-* 文字コードの選択（UTF-8, Shift-JIS）
+* 文字コード（UTF-8）
 * シンプルなUI
+* Markdown対応
+* プレビュー機能
 
 ## 技術スタック
 
@@ -51,13 +52,3 @@ C#のWindows Formsアプリケーション開発の練習として、シンプ�
 ## スクリーンショット
 
 ![スクリーンショット](screenshot.png)
-
-## 著作権とライセンス
-
-MIT License
-
-Copyright (c) 2023 Your Name
-
-## 連絡先
-
-[your\_email@example.com](mailto:your_email@example.com)
